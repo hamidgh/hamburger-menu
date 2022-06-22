@@ -1,6 +1,6 @@
 # Add 2 types of Hamburger Menu to your React application
 
-You can watch step by step of this tutorial from this link [YouTube Video](https://youtu.be/MxLBcy5YxUk).
+You can watch step by step of this tutorial from this link [YouTube Video](https://youtu.be/dO6zKIRCQ0s)).
 
 ## useful links that were used in tutorial
 1- [Menu 1 Demo](https://codepen.io/bradtraversy/pen/vMGBjQ) \
